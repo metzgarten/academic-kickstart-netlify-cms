@@ -5,7 +5,7 @@ theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "hey"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-paginate = 10.0
+paginate = 10
 disqusShortname = ""
 googleAnalytics = ""
 defaultContentLanguage = "en"
@@ -54,7 +54,7 @@ sharing = true
 skype = "echo123"
 telegram = ""
 time_format = "3:04 PM"
-zoom = 15.0
+zoom = 15
 
 [params.menus]
 align_right = true
@@ -65,7 +65,7 @@ url = "www.usal.es"
 
 [params.projects]
 list_children = true
-publication_format = 3.0
+publication_format = 3
 
 [[params.social]]
 icon = "envelope"
@@ -95,37 +95,37 @@ time = true
 [[menu.main]]
 name = "Home"
 url = "#about"
-weight = 1.0
+weight = 1
 
 [[menu.main]]
 name = "Publications"
-url = "#publications_selected"
-weight = 2.0
+url = "#publications"
+weight = 2
 
 [[menu.main]]
 name = "Posts"
 url = "#posts"
-weight = 3.0
+weight = 3
 
 [[menu.main]]
 name = "Projects"
 url = "#projects"
-weight = 4.0
+weight = 4
 
 [[menu.main]]
 name = "Teaching"
 url = "#teaching"
-weight = 5.0
+weight = 5
 
 [[menu.main]]
 name = "Talks"
 url = "#talks"
-weight = 6.0
+weight = 6
 
 [[menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7.0
+weight = 7
 
 [taxonomies]
 category = "categories"
